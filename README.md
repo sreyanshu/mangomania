@@ -1,2 +1,1 @@
-# mangomania
-c-28
+# plucking-mangos
